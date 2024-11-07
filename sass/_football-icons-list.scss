@@ -1,0 +1,11 @@
+@if variable-exists(football-icons-included-teams) {
+  @each $team in $football-icons-included-teams {
+    @include football-icon($team);
+  }
+} @else {
+
+  @include football-icon(sampdoria);
+  @include football-icon(real-madrid);
+
+
+}

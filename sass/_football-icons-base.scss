@@ -1,0 +1,29 @@
+.football-icon-base {
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  image-rendering: auto;
+
+}
+
+.football-icon {
+  @extend .football-icon-base;
+  position: relative;
+  display: inline-block;
+  width: auto;
+  aspect-ratio: 1 / 1;
+  height:100%;
+
+  line-height: 100%;
+  &:before {
+    content: "\00a0";
+  }
+}
+
+@mixin football-icon($team)
+{
+  .football-icon-#{$team}
+  {
+    background-image: url(#{$football-icons-path}/#{$team}.svg);
+  }
+}

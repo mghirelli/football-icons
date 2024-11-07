@@ -1,0 +1,3038 @@
+.football-icon-base, .football-icon {
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  image-rendering: auto;
+}
+
+.football-icon {
+  position: relative;
+  display: inline-block;
+  width: auto;
+  aspect-ratio: 1/1;
+  height: 100%;
+  line-height: 100%;
+}
+.football-icon:before {
+  content: " ";
+}
+
+.football-icon-fc-koln {
+  background-image: url(../badges/fc-koln.svg);
+}
+
+.football-icon-tsg-1899-hoffenheim {
+  background-image: url(../badges/tsg-1899-hoffenheim.svg);
+}
+
+.football-icon-bayer-04-leverkusen {
+  background-image: url(../badges/bayer-04-leverkusen.svg);
+}
+
+.football-icon-borussia-dortmund {
+  background-image: url(../badges/borussia-dortmund.svg);
+}
+
+.football-icon-fc-bayern-munchen {
+  background-image: url(../badges/fc-bayern-munchen.svg);
+}
+
+.football-icon-fc-schalke-04 {
+  background-image: url(../badges/fc-schalke-04.svg);
+}
+
+.football-icon-hamburger-sv {
+  background-image: url(../badges/hamburger-sv.svg);
+}
+
+.football-icon-hannover-96 {
+  background-image: url(../badges/hannover-96.svg);
+}
+
+.football-icon-hertha-bsc {
+  background-image: url(../badges/hertha-bsc.svg);
+}
+
+.football-icon-vfb-stuttgart {
+  background-image: url(../badges/vfb-stuttgart.svg);
+}
+
+.football-icon-vfl-wolfsburg {
+  background-image: url(../badges/vfl-wolfsburg.svg);
+}
+
+.football-icon-sv-werder-bremen {
+  background-image: url(../badges/sv-werder-bremen.svg);
+}
+
+.football-icon-fc-kaiserslautern {
+  background-image: url(../badges/fc-kaiserslautern.svg);
+}
+
+.football-icon-fc-nurnberg {
+  background-image: url(../badges/fc-nurnberg.svg);
+}
+
+.football-icon-fsv-mainz-05 {
+  background-image: url(../badges/fsv-mainz-05.svg);
+}
+
+.football-icon-fc-augsburg {
+  background-image: url(../badges/fc-augsburg.svg);
+}
+
+.football-icon-sc-freiburg {
+  background-image: url(../badges/sc-freiburg.svg);
+}
+
+.football-icon-borussia-monchengladbach {
+  background-image: url(../badges/borussia-monchengladbach.svg);
+}
+
+.football-icon-eintracht-frankfurt {
+  background-image: url(../badges/eintracht-frankfurt.svg);
+}
+
+.football-icon-fc-st--pauli-1910 {
+  background-image: url(../badges/fc-st--pauli-1910.svg);
+}
+
+.football-icon-spvgg-greuther-furth-1903 {
+  background-image: url(../badges/spvgg-greuther-furth-1903.svg);
+}
+
+.football-icon-fc-erzgebirge-aue {
+  background-image: url(../badges/fc-erzgebirge-aue.svg);
+}
+
+.football-icon-tsv-fortuna-95-dusseldorf {
+  background-image: url(../badges/tsv-fortuna-95-dusseldorf.svg);
+}
+
+.football-icon-msv-duisburg {
+  background-image: url(../badges/msv-duisburg.svg);
+}
+
+.football-icon-tsv-1860-munchen {
+  background-image: url(../badges/tsv-1860-munchen.svg);
+}
+
+.football-icon-fc-union-berlin {
+  background-image: url(../badges/fc-union-berlin.svg);
+}
+
+.football-icon-sc-paderborn-07 {
+  background-image: url(../badges/sc-paderborn-07.svg);
+}
+
+.football-icon-fc-ingolstadt-04 {
+  background-image: url(../badges/fc-ingolstadt-04.svg);
+}
+
+.football-icon-karlsruher-sc {
+  background-image: url(../badges/karlsruher-sc.svg);
+}
+
+.football-icon-eintracht-braunschweig {
+  background-image: url(../badges/eintracht-braunschweig.svg);
+}
+
+.football-icon-fc-hansa-rostock {
+  background-image: url(../badges/fc-hansa-rostock.svg);
+}
+
+.football-icon-sg-dynamo-dresden {
+  background-image: url(../badges/sg-dynamo-dresden.svg);
+}
+
+.football-icon-vfl-bochum-1848 {
+  background-image: url(../badges/vfl-bochum-1848.svg);
+}
+
+.football-icon-arminia-bielefeld {
+  background-image: url(../badges/arminia-bielefeld.svg);
+}
+
+.football-icon-sv-wehen-wiesbaden {
+  background-image: url(../badges/sv-wehen-wiesbaden.svg);
+}
+
+.football-icon-ssv-jahn-regensburg {
+  background-image: url(../badges/ssv-jahn-regensburg.svg);
+}
+
+.football-icon-fc-heidenheim-1846 {
+  background-image: url(../badges/fc-heidenheim-1846.svg);
+}
+
+.football-icon-sv-sandhausen-1916 {
+  background-image: url(../badges/sv-sandhausen-1916.svg);
+}
+
+.football-icon-spvgg-unterhaching {
+  background-image: url(../badges/spvgg-unterhaching.svg);
+}
+
+.football-icon-fc-internazionale-milano {
+  background-image: url(../badges/fc-internazionale-milano.svg);
+}
+
+.football-icon-juventus-fc {
+  background-image: url(../badges/juventus-fc.svg);
+}
+
+.football-icon-ss-lazio {
+  background-image: url(../badges/ss-lazio.svg);
+}
+
+.football-icon-parma-calcio-1913 {
+  background-image: url(../badges/parma-calcio-1913.svg);
+}
+
+.football-icon-ssc-napoli {
+  background-image: url(../badges/ssc-napoli.svg);
+}
+
+.football-icon-udinese-calcio {
+  background-image: url(../badges/udinese-calcio.svg);
+}
+
+.football-icon-fsv-zwickau {
+  background-image: url(../badges/fsv-zwickau.svg);
+}
+
+.football-icon-vfb-lubeck {
+  background-image: url(../badges/vfb-lubeck.svg);
+}
+
+.football-icon-albacete-balompie {
+  background-image: url(../badges/albacete-balompie.svg);
+}
+
+.football-icon-real-valladolid-cf {
+  background-image: url(../badges/real-valladolid-cf.svg);
+}
+
+.football-icon-cd-tenerife {
+  background-image: url(../badges/cd-tenerife.svg);
+}
+
+.football-icon-deportivo-alaves {
+  background-image: url(../badges/deportivo-alaves.svg);
+}
+
+.football-icon-cadiz-cf {
+  background-image: url(../badges/cadiz-cf.svg);
+}
+
+.football-icon-ud-almeria {
+  background-image: url(../badges/ud-almeria.svg);
+}
+
+.football-icon-ud-las-palmas {
+  background-image: url(../badges/ud-las-palmas.svg);
+}
+
+.football-icon-sd-eibar {
+  background-image: url(../badges/sd-eibar.svg);
+}
+
+.football-icon-elche-cf {
+  background-image: url(../badges/elche-cf.svg);
+}
+
+.football-icon-sd-ponferradina {
+  background-image: url(../badges/sd-ponferradina.svg);
+}
+
+.football-icon-girona-fc {
+  background-image: url(../badges/girona-fc.svg);
+}
+
+.football-icon-sd-huesca {
+  background-image: url(../badges/sd-huesca.svg);
+}
+
+.football-icon-fc-cartagena {
+  background-image: url(../badges/fc-cartagena.svg);
+}
+
+.football-icon-ad-alcorcon {
+  background-image: url(../badges/ad-alcorcon.svg);
+}
+
+.football-icon-hull-city-afc {
+  background-image: url(../badges/hull-city-afc.svg);
+}
+
+.football-icon-burnley-fc {
+  background-image: url(../badges/burnley-fc.svg);
+}
+
+.football-icon-birmingham-city-fc {
+  background-image: url(../badges/birmingham-city-fc.svg);
+}
+
+.football-icon-blackpool-fc {
+  background-image: url(../badges/blackpool-fc.svg);
+}
+
+.football-icon-leicester-city-fc {
+  background-image: url(../badges/leicester-city-fc.svg);
+}
+
+.football-icon-southampton-fc {
+  background-image: url(../badges/southampton-fc.svg);
+}
+
+.football-icon-leeds-united-fc {
+  background-image: url(../badges/leeds-united-fc.svg);
+}
+
+.football-icon-derby-county-fc {
+  background-image: url(../badges/derby-county-fc.svg);
+}
+
+.football-icon-middlesbrough-fc {
+  background-image: url(../badges/middlesbrough-fc.svg);
+}
+
+.football-icon-sheffield-wednesday-fc {
+  background-image: url(../badges/sheffield-wednesday-fc.svg);
+}
+
+.football-icon-watford-fc {
+  background-image: url(../badges/watford-fc.svg);
+}
+
+.football-icon-afc-wimbledon {
+  background-image: url(../badges/afc-wimbledon.svg);
+}
+
+.football-icon-charlton-athletic-fc {
+  background-image: url(../badges/charlton-athletic-fc.svg);
+}
+
+.football-icon-ipswich-town-fc {
+  background-image: url(../badges/ipswich-town-fc.svg);
+}
+
+.football-icon-nottingham-forest-fc {
+  background-image: url(../badges/nottingham-forest-fc.svg);
+}
+
+.football-icon-crystal-palace-fc {
+  background-image: url(../badges/crystal-palace-fc.svg);
+}
+
+.football-icon-reading-fc {
+  background-image: url(../badges/reading-fc.svg);
+}
+
+.football-icon-sheffield-united-fc {
+  background-image: url(../badges/sheffield-united-fc.svg);
+}
+
+.football-icon-barnsley-fc {
+  background-image: url(../badges/barnsley-fc.svg);
+}
+
+.football-icon-rochdale-afc {
+  background-image: url(../badges/rochdale-afc.svg);
+}
+
+.football-icon-colchester-united-fc {
+  background-image: url(../badges/colchester-united-fc.svg);
+}
+
+.football-icon-walsall-fc {
+  background-image: url(../badges/walsall-fc.svg);
+}
+
+.football-icon-gillingham-fc {
+  background-image: url(../badges/gillingham-fc.svg);
+}
+
+.football-icon-northampton-town-fc {
+  background-image: url(../badges/northampton-town-fc.svg);
+}
+
+.football-icon-millwall-fc {
+  background-image: url(../badges/millwall-fc.svg);
+}
+
+.football-icon-rotherham-united-fc {
+  background-image: url(../badges/rotherham-united-fc.svg);
+}
+
+.football-icon-bristol-city-fc {
+  background-image: url(../badges/bristol-city-fc.svg);
+}
+
+.football-icon-luton-town-fc {
+  background-image: url(../badges/luton-town-fc.svg);
+}
+
+.football-icon-port-vale-fc {
+  background-image: url(../badges/port-vale-fc.svg);
+}
+
+.football-icon-huddersfield-town-afc {
+  background-image: url(../badges/huddersfield-town-afc.svg);
+}
+
+.football-icon-brighton---hove-albion-fc {
+  background-image: url(../badges/brighton---hove-albion-fc.svg);
+}
+
+.football-icon-leyton-orient-fc {
+  background-image: url(../badges/leyton-orient-fc.svg);
+}
+
+.football-icon-bristol-rovers-fc {
+  background-image: url(../badges/bristol-rovers-fc.svg);
+}
+
+.football-icon-brentford-fc {
+  background-image: url(../badges/brentford-fc.svg);
+}
+
+.football-icon-milton-keynes-dons-fc {
+  background-image: url(../badges/milton-keynes-dons-fc.svg);
+}
+
+.football-icon-cheltenham-town-fc {
+  background-image: url(../badges/cheltenham-town-fc.svg);
+}
+
+.football-icon-as-livorno-calcio {
+  background-image: url(../badges/as-livorno-calcio.svg);
+}
+
+.football-icon-empoli-fc {
+  background-image: url(../badges/empoli-fc.svg);
+}
+
+.football-icon-ascoli-calcio-1898-fc {
+  background-image: url(../badges/ascoli-calcio-1898-fc.svg);
+}
+
+.football-icon-brescia-calcio {
+  background-image: url(../badges/brescia-calcio.svg);
+}
+
+.football-icon-beerschot-va {
+  background-image: url(../badges/beerschot-va.svg);
+}
+
+.football-icon-oud-heverlee-leuven {
+  background-image: url(../badges/oud-heverlee-leuven.svg);
+}
+
+.football-icon-cercle-brugge-ksv {
+  background-image: url(../badges/cercle-brugge-ksv.svg);
+}
+
+.football-icon-fortaleza-ec {
+  background-image: url(../badges/fortaleza-ec.svg);
+}
+
+.football-icon-ac-goianiense {
+  background-image: url(../badges/ac-goianiense.svg);
+}
+
+.football-icon-hellas-verona-fc {
+  background-image: url(../badges/hellas-verona-fc.svg);
+}
+
+.football-icon-ac-perugia-calcio {
+  background-image: url(../badges/ac-perugia-calcio.svg);
+}
+
+.football-icon-venezia-fc {
+  background-image: url(../badges/venezia-fc.svg);
+}
+
+.football-icon-us-salernitana-1919 {
+  background-image: url(../badges/us-salernitana-1919.svg);
+}
+
+.football-icon-us-cremonese {
+  background-image: url(../badges/us-cremonese.svg);
+}
+
+.football-icon-as-cittadella {
+  background-image: url(../badges/as-cittadella.svg);
+}
+
+.football-icon-frosinone-calcio {
+  background-image: url(../badges/frosinone-calcio.svg);
+}
+
+.football-icon-us-sassuolo-calcio {
+  background-image: url(../badges/us-sassuolo-calcio.svg);
+}
+
+.football-icon-fc-crotone {
+  background-image: url(../badges/fc-crotone.svg);
+}
+
+.football-icon-ac-pisa-1909 {
+  background-image: url(../badges/ac-pisa-1909.svg);
+}
+
+.football-icon-spezia-calcio {
+  background-image: url(../badges/spezia-calcio.svg);
+}
+
+.football-icon-rio-ave-fc {
+  background-image: url(../badges/rio-ave-fc.svg);
+}
+
+.football-icon-sporting-clube-de-portugal {
+  background-image: url(../badges/sporting-clube-de-portugal.svg);
+}
+
+.football-icon-fc-porto {
+  background-image: url(../badges/fc-porto.svg);
+}
+
+.football-icon-fc-pacos-de-ferreira {
+  background-image: url(../badges/fc-pacos-de-ferreira.svg);
+}
+
+.football-icon-ac-ajaccio {
+  background-image: url(../badges/ac-ajaccio.svg);
+}
+
+.football-icon-toulouse-fc {
+  background-image: url(../badges/toulouse-fc.svg);
+}
+
+.football-icon-stade-brestois-29 {
+  background-image: url(../badges/stade-brestois-29.svg);
+}
+
+.football-icon-sm-caen {
+  background-image: url(../badges/sm-caen.svg);
+}
+
+.football-icon-valenciennes-fc {
+  background-image: url(../badges/valenciennes-fc.svg);
+}
+
+.football-icon-olympique-de-marseille {
+  background-image: url(../badges/olympique-de-marseille.svg);
+}
+
+.football-icon-fc-sochaux-montbeliard {
+  background-image: url(../badges/fc-sochaux-montbeliard.svg);
+}
+
+.football-icon-montpellier-hsc {
+  background-image: url(../badges/montpellier-hsc.svg);
+}
+
+.football-icon-aj-auxerre {
+  background-image: url(../badges/aj-auxerre.svg);
+}
+
+.football-icon-as-nancy-lorraine {
+  background-image: url(../badges/as-nancy-lorraine.svg);
+}
+
+.football-icon-lille-osc {
+  background-image: url(../badges/lille-osc.svg);
+}
+
+.football-icon-olympique-lyonnais {
+  background-image: url(../badges/olympique-lyonnais.svg);
+}
+
+.football-icon-paris-saint-germain-fc {
+  background-image: url(../badges/paris-saint-germain-fc.svg);
+}
+
+.football-icon-fc-lorient {
+  background-image: url(../badges/fc-lorient.svg);
+}
+
+.football-icon-fc-girondins-de-bordeaux {
+  background-image: url(../badges/fc-girondins-de-bordeaux.svg);
+}
+
+.football-icon-dijon-football-cote-d-or {
+  background-image: url(../badges/dijon-football-cote-d-or.svg);
+}
+
+.football-icon-stade-rennais-fc-1901 {
+  background-image: url(../badges/stade-rennais-fc-1901.svg);
+}
+
+.football-icon-amiens-sc {
+  background-image: url(../badges/amiens-sc.svg);
+}
+
+.football-icon-es-troyes-ac {
+  background-image: url(../badges/es-troyes-ac.svg);
+}
+
+.football-icon-coritiba-fbc {
+  background-image: url(../badges/coritiba-fbc.svg);
+}
+
+.football-icon-goias-ec {
+  background-image: url(../badges/goias-ec.svg);
+}
+
+.football-icon-club-universitario-de-deportes {
+  background-image: url(../badges/club-universitario-de-deportes.svg);
+}
+
+.football-icon-fk-sarajevo {
+  background-image: url(../badges/fk-sarajevo.svg);
+}
+
+.football-icon-rb-bragantino {
+  background-image: url(../badges/rb-bragantino.svg);
+}
+
+.football-icon-vancouver-whitecaps-fc {
+  background-image: url(../badges/vancouver-whitecaps-fc.svg);
+}
+
+.football-icon-cd-santiago-wanderers {
+  background-image: url(../badges/cd-santiago-wanderers.svg);
+}
+
+.football-icon-cd-union-la-calera {
+  background-image: url(../badges/cd-union-la-calera.svg);
+}
+
+.football-icon-csd-colo-colo {
+  background-image: url(../badges/csd-colo-colo.svg);
+}
+
+.football-icon-cdp-junior-fc {
+  background-image: url(../badges/cdp-junior-fc.svg);
+}
+
+.football-icon-cd-antofagasta {
+  background-image: url(../badges/cd-antofagasta.svg);
+}
+
+.football-icon-audax-cs-italiano {
+  background-image: url(../badges/audax-cs-italiano.svg);
+}
+
+.football-icon-cd-everton {
+  background-image: url(../badges/cd-everton.svg);
+}
+
+.football-icon-cd-huachipato {
+  background-image: url(../badges/cd-huachipato.svg);
+}
+
+.football-icon-cd-iquique {
+  background-image: url(../badges/cd-iquique.svg);
+}
+
+.football-icon-o-higgins-fc {
+  background-image: url(../badges/o-higgins-fc.svg);
+}
+
+.football-icon-cd-palestino {
+  background-image: url(../badges/cd-palestino.svg);
+}
+
+.football-icon-cd-universidad-de-concepcion {
+  background-image: url(../badges/cd-universidad-de-concepcion.svg);
+}
+
+.football-icon-cdp-curico-unido {
+  background-image: url(../badges/cdp-curico-unido.svg);
+}
+
+.football-icon-cf-universidad-de-chile {
+  background-image: url(../badges/cf-universidad-de-chile.svg);
+}
+
+.football-icon-union-espanola {
+  background-image: url(../badges/union-espanola.svg);
+}
+
+.football-icon-aarhus-gf {
+  background-image: url(../badges/aarhus-gf.svg);
+}
+
+.football-icon-ac-horsens {
+  background-image: url(../badges/ac-horsens.svg);
+}
+
+.football-icon-brndby-if {
+  background-image: url(../badges/brndby-if.svg);
+}
+
+.football-icon-fc-midtjylland {
+  background-image: url(../badges/fc-midtjylland.svg);
+}
+
+.football-icon-fc-nordsjlland {
+  background-image: url(../badges/fc-nordsjlland.svg);
+}
+
+.football-icon-lyngby-bk {
+  background-image: url(../badges/lyngby-bk.svg);
+}
+
+.football-icon-odense-bk {
+  background-image: url(../badges/odense-bk.svg);
+}
+
+.football-icon-randers-fc {
+  background-image: url(../badges/randers-fc.svg);
+}
+
+.football-icon-snderjyske {
+  background-image: url(../badges/snderjyske.svg);
+}
+
+.football-icon-vejle-bk {
+  background-image: url(../badges/vejle-bk.svg);
+}
+
+.football-icon-tranmere-rovers-fc {
+  background-image: url(../badges/tranmere-rovers-fc.svg);
+}
+
+.football-icon-kuopion-ps {
+  background-image: url(../badges/kuopion-ps.svg);
+}
+
+.football-icon-harrogate-town-afc {
+  background-image: url(../badges/harrogate-town-afc.svg);
+}
+
+.football-icon-angers-sco {
+  background-image: url(../badges/angers-sco.svg);
+}
+
+.football-icon-le-havre-ac {
+  background-image: url(../badges/le-havre-ac.svg);
+}
+
+.football-icon-en-avant-guingamp {
+  background-image: url(../badges/en-avant-guingamp.svg);
+}
+
+.football-icon-la-berrichonne-de-chateauroux {
+  background-image: url(../badges/la-berrichonne-de-chateauroux.svg);
+}
+
+.football-icon-clermont-foot-63 {
+  background-image: url(../badges/clermont-foot-63.svg);
+}
+
+.football-icon-fc-nantes {
+  background-image: url(../badges/fc-nantes.svg);
+}
+
+.football-icon-fc-metz {
+  background-image: url(../badges/fc-metz.svg);
+}
+
+.football-icon-racing-club-de-lens {
+  background-image: url(../badges/racing-club-de-lens.svg);
+}
+
+.football-icon-stade-de-reims {
+  background-image: url(../badges/stade-de-reims.svg);
+}
+
+.football-icon-cd-guadalajara {
+  background-image: url(../badges/cd-guadalajara.svg);
+}
+
+.football-icon-hallescher-fc {
+  background-image: url(../badges/hallescher-fc.svg);
+}
+
+.football-icon-nimes-olympique {
+  background-image: url(../badges/nimes-olympique.svg);
+}
+
+.football-icon-chamois-niortais-fc {
+  background-image: url(../badges/chamois-niortais-fc.svg);
+}
+
+.football-icon-rc-celta-de-vigo {
+  background-image: url(../badges/rc-celta-de-vigo.svg);
+}
+
+.football-icon-sevilla-fc {
+  background-image: url(../badges/sevilla-fc.svg);
+}
+
+.football-icon-west-ham-united-fc {
+  background-image: url(../badges/west-ham-united-fc.svg);
+}
+
+.football-icon-rc-strasbourg-alsace {
+  background-image: url(../badges/rc-strasbourg-alsace.svg);
+}
+
+.football-icon-moreirense-fc {
+  background-image: url(../badges/moreirense-fc.svg);
+}
+
+.football-icon-uc-sampdoria {
+  background-image: url(../badges/uc-sampdoria.svg);
+}
+
+.football-icon-delfino-pescara-1936 {
+  background-image: url(../badges/delfino-pescara-1936.svg);
+}
+
+.football-icon-torino-fc {
+  background-image: url(../badges/torino-fc.svg);
+}
+
+.football-icon-ss-juve-stabia {
+  background-image: url(../badges/ss-juve-stabia.svg);
+}
+
+.football-icon-cd-mirandes {
+  background-image: url(../badges/cd-mirandes.svg);
+}
+
+.football-icon-cd-lugo {
+  background-image: url(../badges/cd-lugo.svg);
+}
+
+.football-icon-besiktas-jk {
+  background-image: url(../badges/besiktas-jk.svg);
+}
+
+.football-icon-fc-haka {
+  background-image: url(../badges/fc-haka.svg);
+}
+
+.football-icon-esport-honka {
+  background-image: url(../badges/esport-honka.svg);
+}
+
+.football-icon-fc-inter-turku {
+  background-image: url(../badges/fc-inter-turku.svg);
+}
+
+.football-icon-fc-lahti {
+  background-image: url(../badges/fc-lahti.svg);
+}
+
+.football-icon-hifk-fotboll {
+  background-image: url(../badges/hifk-fotboll.svg);
+}
+
+.football-icon-helsingin-jk {
+  background-image: url(../badges/helsingin-jk.svg);
+}
+
+.football-icon-ilves-tampere {
+  background-image: url(../badges/ilves-tampere.svg);
+}
+
+.football-icon-rovaniemen-ps {
+  background-image: url(../badges/rovaniemen-ps.svg);
+}
+
+.football-icon-seinajoen-jk {
+  background-image: url(../badges/seinajoen-jk.svg);
+}
+
+.football-icon-turun-ps {
+  background-image: url(../badges/turun-ps.svg);
+}
+
+.football-icon-fk-oleksandriya {
+  background-image: url(../badges/fk-oleksandriya.svg);
+}
+
+.football-icon-fk-vorskla-poltava {
+  background-image: url(../badges/fk-vorskla-poltava.svg);
+}
+
+.football-icon-fk-zorya-luhansk {
+  background-image: url(../badges/fk-zorya-luhansk.svg);
+}
+
+.football-icon-pfk-lviv {
+  background-image: url(../badges/pfk-lviv.svg);
+}
+
+.football-icon-fk-inhulets {
+  background-image: url(../badges/fk-inhulets.svg);
+}
+
+.football-icon-fk-rukh-lviv {
+  background-image: url(../badges/fk-rukh-lviv.svg);
+}
+
+.football-icon-sk-dnipro-1 {
+  background-image: url(../badges/sk-dnipro-1.svg);
+}
+
+.football-icon-bb-erzurumspor {
+  background-image: url(../badges/bb-erzurumspor.svg);
+}
+
+.football-icon-caykur-rizespor {
+  background-image: url(../badges/caykur-rizespor.svg);
+}
+
+.football-icon-denizlispor {
+  background-image: url(../badges/denizlispor.svg);
+}
+
+.football-icon-gaziantep-fk {
+  background-image: url(../badges/gaziantep-fk.svg);
+}
+
+.football-icon-mke-ankaragucu-sk {
+  background-image: url(../badges/mke-ankaragucu-sk.svg);
+}
+
+.football-icon-aytemiz-alanyaspor {
+  background-image: url(../badges/aytemiz-alanyaspor.svg);
+}
+
+.football-icon-goztepe-sk {
+  background-image: url(../badges/goztepe-sk.svg);
+}
+
+.football-icon-kasmpasa-sk {
+  background-image: url(../badges/kasmpasa-sk.svg);
+}
+
+.football-icon-yeni-malatyaspor {
+  background-image: url(../badges/yeni-malatyaspor.svg);
+}
+
+.football-icon-neuchatel-xamax-fcs {
+  background-image: url(../badges/neuchatel-xamax-fcs.svg);
+}
+
+.football-icon-fc-lugano {
+  background-image: url(../badges/fc-lugano.svg);
+}
+
+.football-icon-fc-luzern {
+  background-image: url(../badges/fc-luzern.svg);
+}
+
+.football-icon-fc-sion {
+  background-image: url(../badges/fc-sion.svg);
+}
+
+.football-icon-fc-st--gallen {
+  background-image: url(../badges/fc-st--gallen.svg);
+}
+
+.football-icon-fc-zurich {
+  background-image: url(../badges/fc-zurich.svg);
+}
+
+.football-icon-servette-fc {
+  background-image: url(../badges/servette-fc.svg);
+}
+
+.football-icon-aik-fotboll {
+  background-image: url(../badges/aik-fotboll.svg);
+}
+
+.football-icon-bk-hacken {
+  background-image: url(../badges/bk-hacken.svg);
+}
+
+.football-icon-djurgardens-if-fotboll {
+  background-image: url(../badges/djurgardens-if-fotboll.svg);
+}
+
+.football-icon-hammarby-fotboll {
+  background-image: url(../badges/hammarby-fotboll.svg);
+}
+
+.football-icon-if-elfsborg {
+  background-image: url(../badges/if-elfsborg.svg);
+}
+
+.football-icon-ifk-goteborg {
+  background-image: url(../badges/ifk-goteborg.svg);
+}
+
+.football-icon-ifk-norrkoping-fk {
+  background-image: url(../badges/ifk-norrkoping-fk.svg);
+}
+
+.football-icon-ik-sirius-fk {
+  background-image: url(../badges/ik-sirius-fk.svg);
+}
+
+.football-icon-kalmar-ff {
+  background-image: url(../badges/kalmar-ff.svg);
+}
+
+.football-icon-orebro-sk-fotboll {
+  background-image: url(../badges/orebro-sk-fotboll.svg);
+}
+
+.football-icon-ostersunds-fk {
+  background-image: url(../badges/ostersunds-fk.svg);
+}
+
+.football-icon-falkenbergs-ff {
+  background-image: url(../badges/falkenbergs-ff.svg);
+}
+
+.football-icon-helsingborgs-if {
+  background-image: url(../badges/helsingborgs-if.svg);
+}
+
+.football-icon-varbergs-bois-fc {
+  background-image: url(../badges/varbergs-bois-fc.svg);
+}
+
+.football-icon-mjallby-aif {
+  background-image: url(../badges/mjallby-aif.svg);
+}
+
+.football-icon-cf-fuenlabrada {
+  background-image: url(../badges/cf-fuenlabrada.svg);
+}
+
+.football-icon-ud-logrones {
+  background-image: url(../badges/ud-logrones.svg);
+}
+
+.football-icon-venezuela {
+  background-image: url(../badges/venezuela.svg);
+}
+
+.football-icon-cs-cristal {
+  background-image: url(../badges/cs-cristal.svg);
+}
+
+.football-icon-csd-sport-huancayo {
+  background-image: url(../badges/csd-sport-huancayo.svg);
+}
+
+.football-icon-cu-tecnica-de-cajamarca {
+  background-image: url(../badges/cu-tecnica-de-cajamarca.svg);
+}
+
+.football-icon-aberdeen-fc {
+  background-image: url(../badges/aberdeen-fc.svg);
+}
+
+.football-icon-hamilton-academical-fc {
+  background-image: url(../badges/hamilton-academical-fc.svg);
+}
+
+.football-icon-heart-of-midlothian-fc {
+  background-image: url(../badges/heart-of-midlothian-fc.svg);
+}
+
+.football-icon-hibernian-fc {
+  background-image: url(../badges/hibernian-fc.svg);
+}
+
+.football-icon-kilmarnock-fc {
+  background-image: url(../badges/kilmarnock-fc.svg);
+}
+
+.football-icon-motherwell-fc {
+  background-image: url(../badges/motherwell-fc.svg);
+}
+
+.football-icon-rangers-fc {
+  background-image: url(../badges/rangers-fc.svg);
+}
+
+.football-icon-ross-county-fc {
+  background-image: url(../badges/ross-county-fc.svg);
+}
+
+.football-icon-st--johnstone-fc {
+  background-image: url(../badges/st--johnstone-fc.svg);
+}
+
+.football-icon-dundee-united-fc {
+  background-image: url(../badges/dundee-united-fc.svg);
+}
+
+.football-icon-livingston-fc {
+  background-image: url(../badges/livingston-fc.svg);
+}
+
+.football-icon-st--mirren-fc {
+  background-image: url(../badges/st--mirren-fc.svg);
+}
+
+.football-icon-fk-khimki {
+  background-image: url(../badges/fk-khimki.svg);
+}
+
+.football-icon-sk-rotor-volgograd {
+  background-image: url(../badges/sk-rotor-volgograd.svg);
+}
+
+.football-icon-fk-tambov {
+  background-image: url(../badges/fk-tambov.svg);
+}
+
+.football-icon-pfk-arsenal-tula {
+  background-image: url(../badges/pfk-arsenal-tula.svg);
+}
+
+.football-icon-fk-dinamo-moskva {
+  background-image: url(../badges/fk-dinamo-moskva.svg);
+}
+
+.football-icon-fk-krasnodar {
+  background-image: url(../badges/fk-krasnodar.svg);
+}
+
+.football-icon-fk-lokomotiv-moskva {
+  background-image: url(../badges/fk-lokomotiv-moskva.svg);
+}
+
+.football-icon-fk-rostov {
+  background-image: url(../badges/fk-rostov.svg);
+}
+
+.football-icon-fk-ufa {
+  background-image: url(../badges/fk-ufa.svg);
+}
+
+.football-icon-fk-ural {
+  background-image: url(../badges/fk-ural.svg);
+}
+
+.football-icon-rfk-akhmat-grozny {
+  background-image: url(../badges/rfk-akhmat-grozny.svg);
+}
+
+.football-icon-fc-academica-clinceni {
+  background-image: url(../badges/fc-academica-clinceni.svg);
+}
+
+.football-icon-fc-arges-pitesti {
+  background-image: url(../badges/fc-arges-pitesti.svg);
+}
+
+.football-icon-fc-hermannstadt {
+  background-image: url(../badges/fc-hermannstadt.svg);
+}
+
+.football-icon-fc-uta-arad {
+  background-image: url(../badges/fc-uta-arad.svg);
+}
+
+.football-icon-afc-chindia-targoviste {
+  background-image: url(../badges/afc-chindia-targoviste.svg);
+}
+
+.football-icon-fc-voluntari {
+  background-image: url(../badges/fc-voluntari.svg);
+}
+
+.football-icon-sepsi-osk {
+  background-image: url(../badges/sepsi-osk.svg);
+}
+
+.football-icon-cs-gaz-metan-medias {
+  background-image: url(../badges/cs-gaz-metan-medias.svg);
+}
+
+.football-icon-universitatea-craiova-cs {
+  background-image: url(../badges/universitatea-craiova-cs.svg);
+}
+
+.football-icon-csm-politehnica-iasi {
+  background-image: url(../badges/csm-politehnica-iasi.svg);
+}
+
+.football-icon-fc-cfr-1907-cluj {
+  background-image: url(../badges/fc-cfr-1907-cluj.svg);
+}
+
+.football-icon-fc-dinamo-bucuresti {
+  background-image: url(../badges/fc-dinamo-bucuresti.svg);
+}
+
+.football-icon-fc-botosani {
+  background-image: url(../badges/fc-botosani.svg);
+}
+
+.football-icon-cd-nacional {
+  background-image: url(../badges/cd-nacional.svg);
+}
+
+.football-icon-cd-santa-clara {
+  background-image: url(../badges/cd-santa-clara.svg);
+}
+
+.football-icon-fc-famalicao {
+  background-image: url(../badges/fc-famalicao.svg);
+}
+
+.football-icon-gil-vicente-fc {
+  background-image: url(../badges/gil-vicente-fc.svg);
+}
+
+.football-icon-vitoria-sc {
+  background-image: url(../badges/vitoria-sc.svg);
+}
+
+.football-icon-cd-aves {
+  background-image: url(../badges/cd-aves.svg);
+}
+
+.football-icon-trabzonspor {
+  background-image: url(../badges/trabzonspor.svg);
+}
+
+.football-icon-genclerbirligi-sk {
+  background-image: url(../badges/genclerbirligi-sk.svg);
+}
+
+.football-icon-fraport-tav-antalyaspor {
+  background-image: url(../badges/fraport-tav-antalyaspor.svg);
+}
+
+.football-icon-kayserispor {
+  background-image: url(../badges/kayserispor.svg);
+}
+
+.football-icon-galatasaray-sk {
+  background-image: url(../badges/galatasaray-sk.svg);
+}
+
+.football-icon-qarabag-agdam-fk {
+  background-image: url(../badges/qarabag-agdam-fk.svg);
+}
+
+.football-icon-demir-grup-sivasspor {
+  background-image: url(../badges/demir-grup-sivasspor.svg);
+}
+
+.football-icon-fenerbahce-sk {
+  background-image: url(../badges/fenerbahce-sk.svg);
+}
+
+.football-icon-pae-olympiakos-sfp {
+  background-image: url(../badges/pae-olympiakos-sfp.svg);
+}
+
+.football-icon-fc-twente--65 {
+  background-image: url(../badges/fc-twente--65.svg);
+}
+
+.football-icon-vvv-venlo {
+  background-image: url(../badges/vvv-venlo.svg);
+}
+
+.football-icon-heracles-almelo {
+  background-image: url(../badges/heracles-almelo.svg);
+}
+
+.football-icon-willem-ii-tilburg {
+  background-image: url(../badges/willem-ii-tilburg.svg);
+}
+
+.football-icon-sc-heerenveen {
+  background-image: url(../badges/sc-heerenveen.svg);
+}
+
+.football-icon-psv {
+  background-image: url(../badges/psv.svg);
+}
+
+.football-icon-feyenoord-rotterdam {
+  background-image: url(../badges/feyenoord-rotterdam.svg);
+}
+
+.football-icon-fc-utrecht {
+  background-image: url(../badges/fc-utrecht.svg);
+}
+
+.football-icon-fc-groningen {
+  background-image: url(../badges/fc-groningen.svg);
+}
+
+.football-icon-afc-ajax {
+  background-image: url(../badges/afc-ajax.svg);
+}
+
+.football-icon-sbv-vitesse {
+  background-image: url(../badges/sbv-vitesse.svg);
+}
+
+.football-icon-ado-den-haag {
+  background-image: url(../badges/ado-den-haag.svg);
+}
+
+.football-icon-az {
+  background-image: url(../badges/az.svg);
+}
+
+.football-icon-rkc-waalwijk {
+  background-image: url(../badges/rkc-waalwijk.svg);
+}
+
+.football-icon-pec-zwolle {
+  background-image: url(../badges/pec-zwolle.svg);
+}
+
+.football-icon-os-belenenses-futebol {
+  background-image: url(../badges/os-belenenses-futebol.svg);
+}
+
+.football-icon-cs-maritimo {
+  background-image: url(../badges/cs-maritimo.svg);
+}
+
+.football-icon-portimonense-sc {
+  background-image: url(../badges/portimonense-sc.svg);
+}
+
+.football-icon-sc-farense {
+  background-image: url(../badges/sc-farense.svg);
+}
+
+.football-icon-sporting-clube-de-braga {
+  background-image: url(../badges/sporting-clube-de-braga.svg);
+}
+
+.football-icon-gks-piast-gliwice {
+  background-image: url(../badges/gks-piast-gliwice.svg);
+}
+
+.football-icon-ad-cantolao {
+  background-image: url(../badges/ad-cantolao.svg);
+}
+
+.football-icon-ayacucho-fc {
+  background-image: url(../badges/ayacucho-fc.svg);
+}
+
+.football-icon-cc-deportivo-municipal {
+  background-image: url(../badges/cc-deportivo-municipal.svg);
+}
+
+.football-icon-cd-universidad-san-martin-de-porres {
+  background-image: url(../badges/cd-universidad-san-martin-de-porres.svg);
+}
+
+.football-icon-club-alianza-lima {
+  background-image: url(../badges/club-alianza-lima.svg);
+}
+
+.football-icon-emd-binacional {
+  background-image: url(../badges/emd-binacional.svg);
+}
+
+.football-icon-fbc-melgar {
+  background-image: url(../badges/fbc-melgar.svg);
+}
+
+.football-icon-cusco-fc {
+  background-image: url(../badges/cusco-fc.svg);
+}
+
+.football-icon-sport-boys-association {
+  background-image: url(../badges/sport-boys-association.svg);
+}
+
+.football-icon-atlas-fc {
+  background-image: url(../badges/atlas-fc.svg);
+}
+
+.football-icon-atletico-san-luis {
+  background-image: url(../badges/atletico-san-luis.svg);
+}
+
+.football-icon-cf-america {
+  background-image: url(../badges/cf-america.svg);
+}
+
+.football-icon-cf-monterrey {
+  background-image: url(../badges/cf-monterrey.svg);
+}
+
+.football-icon-cf-pachuca {
+  background-image: url(../badges/cf-pachuca.svg);
+}
+
+.football-icon-club-leon-fc {
+  background-image: url(../badges/club-leon-fc.svg);
+}
+
+.football-icon-club-necaxa {
+  background-image: url(../badges/club-necaxa.svg);
+}
+
+.football-icon-club-puebla {
+  background-image: url(../badges/club-puebla.svg);
+}
+
+.football-icon-club-santos-laguna {
+  background-image: url(../badges/club-santos-laguna.svg);
+}
+
+.football-icon-club-tijuana {
+  background-image: url(../badges/club-tijuana.svg);
+}
+
+.football-icon-cruz-azul-fc {
+  background-image: url(../badges/cruz-azul-fc.svg);
+}
+
+.football-icon-deportivo-toluca-fc {
+  background-image: url(../badges/deportivo-toluca-fc.svg);
+}
+
+.football-icon-fc-juarez {
+  background-image: url(../badges/fc-juarez.svg);
+}
+
+.football-icon-pumas-de-la-unam {
+  background-image: url(../badges/pumas-de-la-unam.svg);
+}
+
+.football-icon-queretaro-fc {
+  background-image: url(../badges/queretaro-fc.svg);
+}
+
+.football-icon-tigres-de-la-uanl {
+  background-image: url(../badges/tigres-de-la-uanl.svg);
+}
+
+.football-icon-valletta-fc {
+  background-image: url(../badges/valletta-fc.svg);
+}
+
+.football-icon-fk-suduva-marijampole {
+  background-image: url(../badges/fk-suduva-marijampole.svg);
+}
+
+.football-icon-riga-fc {
+  background-image: url(../badges/riga-fc.svg);
+}
+
+.football-icon-oita-fc-trinita {
+  background-image: url(../badges/oita-fc-trinita.svg);
+}
+
+.football-icon-yokohama-fc {
+  background-image: url(../badges/yokohama-fc.svg);
+}
+
+.football-icon-fc-tokyo {
+  background-image: url(../badges/fc-tokyo.svg);
+}
+
+.football-icon-gamba-osaka {
+  background-image: url(../badges/gamba-osaka.svg);
+}
+
+.football-icon-hokkaido-consadole-sapporo {
+  background-image: url(../badges/hokkaido-consadole-sapporo.svg);
+}
+
+.football-icon-nagoya-grampus {
+  background-image: url(../badges/nagoya-grampus.svg);
+}
+
+.football-icon-sagan-tosu-fc {
+  background-image: url(../badges/sagan-tosu-fc.svg);
+}
+
+.football-icon-sanfrecce-hiroshima {
+  background-image: url(../badges/sanfrecce-hiroshima.svg);
+}
+
+.football-icon-shimizu-s-pulse {
+  background-image: url(../badges/shimizu-s-pulse.svg);
+}
+
+.football-icon-shonan-bellmare {
+  background-image: url(../badges/shonan-bellmare.svg);
+}
+
+.football-icon-urawa-red-diamonds {
+  background-image: url(../badges/urawa-red-diamonds.svg);
+}
+
+.football-icon-vissel-kobe {
+  background-image: url(../badges/vissel-kobe.svg);
+}
+
+.football-icon-yokohama-fmarinos {
+  background-image: url(../badges/yokohama-fmarinos.svg);
+}
+
+.football-icon-cerezo-osaka-fc {
+  background-image: url(../badges/cerezo-osaka-fc.svg);
+}
+
+.football-icon-kashima-antlers {
+  background-image: url(../badges/kashima-antlers.svg);
+}
+
+.football-icon-kashiwa-reysol {
+  background-image: url(../badges/kashiwa-reysol.svg);
+}
+
+.football-icon-kawasaki-frontale {
+  background-image: url(../badges/kawasaki-frontale.svg);
+}
+
+.football-icon-cosenza-calcio {
+  background-image: url(../badges/cosenza-calcio.svg);
+}
+
+.football-icon-pordenone-calcio {
+  background-image: url(../badges/pordenone-calcio.svg);
+}
+
+.football-icon-us-lecce {
+  background-image: url(../badges/us-lecce.svg);
+}
+
+.football-icon-maccabi-tel-aviv-fc {
+  background-image: url(../badges/maccabi-tel-aviv-fc.svg);
+}
+
+.football-icon-kf-valur {
+  background-image: url(../badges/kf-valur.svg);
+}
+
+.football-icon-ferencvarosi-tc {
+  background-image: url(../badges/ferencvarosi-tc.svg);
+}
+
+.football-icon-fc-bayern-munchen-ii {
+  background-image: url(../badges/fc-bayern-munchen-ii.svg);
+}
+
+.football-icon-fsv-union-furstenwalde {
+  background-image: url(../badges/fsv-union-furstenwalde.svg);
+}
+
+.football-icon-kfc-uerdingen-05 {
+  background-image: url(../badges/kfc-uerdingen-05.svg);
+}
+
+.football-icon-sc-verl {
+  background-image: url(../badges/sc-verl.svg);
+}
+
+.football-icon-sc-wiedenbruck {
+  background-image: url(../badges/sc-wiedenbruck.svg);
+}
+
+.football-icon-sv-waldhof-mannheim {
+  background-image: url(../badges/sv-waldhof-mannheim.svg);
+}
+
+.football-icon-tsv-havelse {
+  background-image: url(../badges/tsv-havelse.svg);
+}
+
+.football-icon-vsg-altglienicke {
+  background-image: url(../badges/vsg-altglienicke.svg);
+}
+
+.football-icon-afc-astra-giurgiu {
+  background-image: url(../badges/afc-astra-giurgiu.svg);
+}
+
+.football-icon-farul-constanta {
+  background-image: url(../badges/farul-constanta.svg);
+}
+
+.football-icon-cardiff-city-fc {
+  background-image: url(../badges/cardiff-city-fc.svg);
+}
+
+.football-icon-sv-07-elversberg {
+  background-image: url(../badges/sv-07-elversberg.svg);
+}
+
+.football-icon-holstein-kiel {
+  background-image: url(../badges/holstein-kiel.svg);
+}
+
+.football-icon-rb-leipzig {
+  background-image: url(../badges/rb-leipzig.svg);
+}
+
+.football-icon-trapani-calcio {
+  background-image: url(../badges/trapani-calcio.svg);
+}
+
+.football-icon-rsc-anderlecht {
+  background-image: url(../badges/rsc-anderlecht.svg);
+}
+
+.football-icon-fk-zenit-sankt-petersburg {
+  background-image: url(../badges/fk-zenit-sankt-petersburg.svg);
+}
+
+.football-icon-celtic-fc {
+  background-image: url(../badges/celtic-fc.svg);
+}
+
+.football-icon-nk-maribor {
+  background-image: url(../badges/nk-maribor.svg);
+}
+
+.football-icon-cd-leganes {
+  background-image: url(../badges/cd-leganes.svg);
+}
+
+.football-icon-acd-virtus-entella {
+  background-image: url(../badges/acd-virtus-entella.svg);
+}
+
+.football-icon-malmo-ff {
+  background-image: url(../badges/malmo-ff.svg);
+}
+
+.football-icon-apoel-fc {
+  background-image: url(../badges/apoel-fc.svg);
+}
+
+.football-icon-fk-spartak-moskva {
+  background-image: url(../badges/fk-spartak-moskva.svg);
+}
+
+.football-icon-gnk-dinamo-zagreb {
+  background-image: url(../badges/gnk-dinamo-zagreb.svg);
+}
+
+.football-icon-uruguay {
+  background-image: url(../badges/uruguay.svg);
+}
+
+.football-icon-germany {
+  background-image: url(../badges/germany.svg);
+}
+
+.football-icon-spain {
+  background-image: url(../badges/spain.svg);
+}
+
+.football-icon-paraguay {
+  background-image: url(../badges/paraguay.svg);
+}
+
+.football-icon-argentina {
+  background-image: url(../badges/argentina.svg);
+}
+
+.football-icon-ghana {
+  background-image: url(../badges/ghana.svg);
+}
+
+.football-icon-brazil {
+  background-image: url(../badges/brazil.svg);
+}
+
+.football-icon-portugal {
+  background-image: url(../badges/portugal.svg);
+}
+
+.football-icon-japan {
+  background-image: url(../badges/japan.svg);
+}
+
+.football-icon-chile {
+  background-image: url(../badges/chile.svg);
+}
+
+.football-icon-slovakia {
+  background-image: url(../badges/slovakia.svg);
+}
+
+.football-icon-mexico {
+  background-image: url(../badges/mexico.svg);
+}
+
+.football-icon-england {
+  background-image: url(../badges/england.svg);
+}
+
+.football-icon-united-states {
+  background-image: url(../badges/united-states.svg);
+}
+
+.football-icon-paok-fc {
+  background-image: url(../badges/paok-fc.svg);
+}
+
+.football-icon-fc-chambly-oise {
+  background-image: url(../badges/fc-chambly-oise.svg);
+}
+
+.football-icon-grenoble-foot-38 {
+  background-image: url(../badges/grenoble-foot-38.svg);
+}
+
+.football-icon-rodez-aveyron-football {
+  background-image: url(../badges/rodez-aveyron-football.svg);
+}
+
+.football-icon-usl-dunkerque {
+  background-image: url(../badges/usl-dunkerque.svg);
+}
+
+.football-icon-sv-meppen {
+  background-image: url(../badges/sv-meppen.svg);
+}
+
+.football-icon-france {
+  background-image: url(../badges/france.svg);
+}
+
+.football-icon-south-africa {
+  background-image: url(../badges/south-africa.svg);
+}
+
+.football-icon-greece {
+  background-image: url(../badges/greece.svg);
+}
+
+.football-icon-nigeria {
+  background-image: url(../badges/nigeria.svg);
+}
+
+.football-icon-slovenia {
+  background-image: url(../badges/slovenia.svg);
+}
+
+.football-icon-algeria {
+  background-image: url(../badges/algeria.svg);
+}
+
+.football-icon-australia {
+  background-image: url(../badges/australia.svg);
+}
+
+.football-icon-serbia {
+  background-image: url(../badges/serbia.svg);
+}
+
+.football-icon-cameroon {
+  background-image: url(../badges/cameroon.svg);
+}
+
+.football-icon-denmark {
+  background-image: url(../badges/denmark.svg);
+}
+
+.football-icon-new-zealand {
+  background-image: url(../badges/new-zealand.svg);
+}
+
+.football-icon-italy {
+  background-image: url(../badges/italy.svg);
+}
+
+.football-icon-switzerland {
+  background-image: url(../badges/switzerland.svg);
+}
+
+.football-icon-honduras {
+  background-image: url(../badges/honduras.svg);
+}
+
+.football-icon-ukraine {
+  background-image: url(../badges/ukraine.svg);
+}
+
+.football-icon-ecuador {
+  background-image: url(../badges/ecuador.svg);
+}
+
+.football-icon-sweden {
+  background-image: url(../badges/sweden.svg);
+}
+
+.football-icon-costa-rica {
+  background-image: url(../badges/costa-rica.svg);
+}
+
+.football-icon-poland {
+  background-image: url(../badges/poland.svg);
+}
+
+.football-icon-angola {
+  background-image: url(../badges/angola.svg);
+}
+
+.football-icon-czechia {
+  background-image: url(../badges/czechia.svg);
+}
+
+.football-icon-croatia {
+  background-image: url(../badges/croatia.svg);
+}
+
+.football-icon-saudi-arabia {
+  background-image: url(../badges/saudi-arabia.svg);
+}
+
+.football-icon-tunisia {
+  background-image: url(../badges/tunisia.svg);
+}
+
+.football-icon-turkey {
+  background-image: url(../badges/turkey.svg);
+}
+
+.football-icon-senegal {
+  background-image: url(../badges/senegal.svg);
+}
+
+.football-icon-belgium {
+  background-image: url(../badges/belgium.svg);
+}
+
+.football-icon-ireland {
+  background-image: url(../badges/ireland.svg);
+}
+
+.football-icon-russia {
+  background-image: url(../badges/russia.svg);
+}
+
+.football-icon-boavista-fc {
+  background-image: url(../badges/boavista-fc.svg);
+}
+
+.football-icon-romania {
+  background-image: url(../badges/romania.svg);
+}
+
+.football-icon-yugoslavia {
+  background-image: url(../badges/yugoslavia.svg);
+}
+
+.football-icon-norway {
+  background-image: url(../badges/norway.svg);
+}
+
+.football-icon-scotland {
+  background-image: url(../badges/scotland.svg);
+}
+
+.football-icon-morocco {
+  background-image: url(../badges/morocco.svg);
+}
+
+.football-icon-austria {
+  background-image: url(../badges/austria.svg);
+}
+
+.football-icon-bulgaria {
+  background-image: url(../badges/bulgaria.svg);
+}
+
+.football-icon-colombia {
+  background-image: url(../badges/colombia.svg);
+}
+
+.football-icon-jamaica {
+  background-image: url(../badges/jamaica.svg);
+}
+
+.football-icon-bolivia {
+  background-image: url(../badges/bolivia.svg);
+}
+
+.football-icon-czechoslovakia {
+  background-image: url(../badges/czechoslovakia.svg);
+}
+
+.football-icon-egypt {
+  background-image: url(../badges/egypt.svg);
+}
+
+.football-icon-hungary {
+  background-image: url(../badges/hungary.svg);
+}
+
+.football-icon-canada {
+  background-image: url(../badges/canada.svg);
+}
+
+.football-icon-ca-river-plate {
+  background-image: url(../badges/ca-river-plate.svg);
+}
+
+.football-icon-denmark {
+  background-image: url(../badges/denmark.svg);
+}
+
+.football-icon-england {
+  background-image: url(../badges/england.svg);
+}
+
+.football-icon-france {
+  background-image: url(../badges/france.svg);
+}
+
+.football-icon-germany {
+  background-image: url(../badges/germany.svg);
+}
+
+.football-icon-portugal {
+  background-image: url(../badges/portugal.svg);
+}
+
+.football-icon-spain {
+  background-image: url(../badges/spain.svg);
+}
+
+.football-icon-sweden {
+  background-image: url(../badges/sweden.svg);
+}
+
+.football-icon-switzerland {
+  background-image: url(../badges/switzerland.svg);
+}
+
+.football-icon-sc-internacional {
+  background-image: url(../badges/sc-internacional.svg);
+}
+
+.football-icon-santos-fc {
+  background-image: url(../badges/santos-fc.svg);
+}
+
+.football-icon-melbourne-city-fc {
+  background-image: url(../badges/melbourne-city-fc.svg);
+}
+
+.football-icon-ca-independiente {
+  background-image: url(../badges/ca-independiente.svg);
+}
+
+.football-icon-racing-club {
+  background-image: url(../badges/racing-club.svg);
+}
+
+.football-icon-arsenal-fc {
+  background-image: url(../badges/arsenal-fc.svg);
+}
+
+.football-icon-sparta-rotterdam {
+  background-image: url(../badges/sparta-rotterdam.svg);
+}
+
+.football-icon-italy {
+  background-image: url(../badges/italy.svg);
+}
+
+.football-icon-cd-universidad-catolica {
+  background-image: url(../badges/cd-universidad-catolica.svg);
+}
+
+.football-icon-fk-kolos-kovalivka {
+  background-image: url(../badges/fk-kolos-kovalivka.svg);
+}
+
+.football-icon-liverpool-fc {
+  background-image: url(../badges/liverpool-fc.svg);
+}
+
+.football-icon-montreal-impact-fc {
+  background-image: url(../badges/montreal-impact-fc.svg);
+}
+
+.football-icon-northern-ireland {
+  background-image: url(../badges/northern-ireland.svg);
+}
+
+.football-icon-el-salvador {
+  background-image: url(../badges/el-salvador.svg);
+}
+
+.football-icon-peru {
+  background-image: url(../badges/peru.svg);
+}
+
+.football-icon-wales {
+  background-image: url(../badges/wales.svg);
+}
+
+.football-icon-haiti {
+  background-image: url(../badges/haiti.svg);
+}
+
+.football-icon-iran {
+  background-image: url(../badges/iran.svg);
+}
+
+.football-icon-fk-dynamo-kyiv {
+  background-image: url(../badges/fk-dynamo-kyiv.svg);
+}
+
+.football-icon-club-brugge-kv {
+  background-image: url(../badges/club-brugge-kv.svg);
+}
+
+.football-icon-fk-rubin-kazan {
+  background-image: url(../badges/fk-rubin-kazan.svg);
+}
+
+.football-icon-rosenborg-bk {
+  background-image: url(../badges/rosenborg-bk.svg);
+}
+
+.football-icon-sk-slavia-praha {
+  background-image: url(../badges/sk-slavia-praha.svg);
+}
+
+.football-icon-aalborg-bk {
+  background-image: url(../badges/aalborg-bk.svg);
+}
+
+.football-icon-fc-thun {
+  background-image: url(../badges/fc-thun.svg);
+}
+
+.football-icon-paris-fc {
+  background-image: url(../badges/paris-fc.svg);
+}
+
+.football-icon-athletic-bilbao-b {
+  background-image: url(../badges/athletic-bilbao-b.svg);
+}
+
+.football-icon-real-oviedo {
+  background-image: url(../badges/real-oviedo.svg);
+}
+
+.football-icon-cd-tondela {
+  background-image: url(../badges/cd-tondela.svg);
+}
+
+.football-icon-fc-magdeburg {
+  background-image: url(../badges/fc-magdeburg.svg);
+}
+
+.football-icon-fc-wurzburger-kickers {
+  background-image: url(../badges/fc-wurzburger-kickers.svg);
+}
+
+.football-icon-kaa-gent {
+  background-image: url(../badges/kaa-gent.svg);
+}
+
+.football-icon-bosnia-herzegovina {
+  background-image: url(../badges/bosnia-herzegovina.svg);
+}
+
+.football-icon-israel {
+  background-image: url(../badges/israel.svg);
+}
+
+.football-icon-latvia {
+  background-image: url(../badges/latvia.svg);
+}
+
+.football-icon-albania {
+  background-image: url(../badges/albania.svg);
+}
+
+.football-icon-iceland {
+  background-image: url(../badges/iceland.svg);
+}
+
+.football-icon-bradford-city-afc {
+  background-image: url(../badges/bradford-city-afc.svg);
+}
+
+.football-icon-southend-united-fc {
+  background-image: url(../badges/southend-united-fc.svg);
+}
+
+.football-icon-doncaster-rovers-fc {
+  background-image: url(../badges/doncaster-rovers-fc.svg);
+}
+
+.football-icon-burton-albion-fc {
+  background-image: url(../badges/burton-albion-fc.svg);
+}
+
+.football-icon-fleetwood-town-fc {
+  background-image: url(../badges/fleetwood-town-fc.svg);
+}
+
+.football-icon-crewe-alexandra-fc {
+  background-image: url(../badges/crewe-alexandra-fc.svg);
+}
+
+.football-icon-oldham-athletic-afc {
+  background-image: url(../badges/oldham-athletic-afc.svg);
+}
+
+.football-icon-coventry-city-fc {
+  background-image: url(../badges/coventry-city-fc.svg);
+}
+
+.football-icon-peterborough-united-fc {
+  background-image: url(../badges/peterborough-united-fc.svg);
+}
+
+.football-icon-lincoln-red-imps-fc {
+  background-image: url(../badges/lincoln-red-imps-fc.svg);
+}
+
+.football-icon-fk-crvena-zvezda {
+  background-image: url(../badges/fk-crvena-zvezda.svg);
+}
+
+.football-icon-fk-sutjeska-niksic {
+  background-image: url(../badges/fk-sutjeska-niksic.svg);
+}
+
+.football-icon-kf-shkendija-79 {
+  background-image: url(../badges/kf-shkendija-79.svg);
+}
+
+.football-icon-fk-mynai {
+  background-image: url(../badges/fk-mynai.svg);
+}
+
+.football-icon-hatayspor {
+  background-image: url(../badges/hatayspor.svg);
+}
+
+.football-icon-vfl-osnabruck {
+  background-image: url(../badges/vfl-osnabruck.svg);
+}
+
+.football-icon-cd-castellon {
+  background-image: url(../badges/cd-castellon.svg);
+}
+
+.football-icon-los-angeles-galaxy {
+  background-image: url(../badges/los-angeles-galaxy.svg);
+}
+
+.football-icon-new-england-revolution {
+  background-image: url(../badges/new-england-revolution.svg);
+}
+
+.football-icon-d-c--united-sc {
+  background-image: url(../badges/d-c--united-sc.svg);
+}
+
+.football-icon-sporting-kansas-city {
+  background-image: url(../badges/sporting-kansas-city.svg);
+}
+
+.football-icon-chicago-fire-fc {
+  background-image: url(../badges/chicago-fire-fc.svg);
+}
+
+.football-icon-colorado-rapids-sc {
+  background-image: url(../badges/colorado-rapids-sc.svg);
+}
+
+.football-icon-houston-dynamo {
+  background-image: url(../badges/houston-dynamo.svg);
+}
+
+.football-icon-fc-dallas {
+  background-image: url(../badges/fc-dallas.svg);
+}
+
+.football-icon-columbus-crew-sc {
+  background-image: url(../badges/columbus-crew-sc.svg);
+}
+
+.football-icon-real-salt-lake {
+  background-image: url(../badges/real-salt-lake.svg);
+}
+
+.football-icon-new-york-red-bulls {
+  background-image: url(../badges/new-york-red-bulls.svg);
+}
+
+.football-icon-san-jose-earthquakes {
+  background-image: url(../badges/san-jose-earthquakes.svg);
+}
+
+.football-icon-seattle-sounders-fc {
+  background-image: url(../badges/seattle-sounders-fc.svg);
+}
+
+.football-icon-philadelphia-union {
+  background-image: url(../badges/philadelphia-union.svg);
+}
+
+.football-icon-portland-timbers {
+  background-image: url(../badges/portland-timbers.svg);
+}
+
+.football-icon-minnesota-united-fc {
+  background-image: url(../badges/minnesota-united-fc.svg);
+}
+
+.football-icon-orlando-city-sc {
+  background-image: url(../badges/orlando-city-sc.svg);
+}
+
+.football-icon-new-york-city-fc {
+  background-image: url(../badges/new-york-city-fc.svg);
+}
+
+.football-icon-atlanta-united-fc {
+  background-image: url(../badges/atlanta-united-fc.svg);
+}
+
+.football-icon-los-angeles-fc {
+  background-image: url(../badges/los-angeles-fc.svg);
+}
+
+.football-icon-sk-slovan-bratislava {
+  background-image: url(../badges/sk-slovan-bratislava.svg);
+}
+
+.football-icon-ca-central-cordoba {
+  background-image: url(../badges/ca-central-cordoba.svg);
+}
+
+.football-icon-pfk-sochi {
+  background-image: url(../badges/pfk-sochi.svg);
+}
+
+.football-icon-pau-fc {
+  background-image: url(../badges/pau-fc.svg);
+}
+
+.football-icon-chemnitzer-fc {
+  background-image: url(../badges/chemnitzer-fc.svg);
+}
+
+.football-icon-sv-darmstadt-98 {
+  background-image: url(../badges/sv-darmstadt-98.svg);
+}
+
+.football-icon-arsenal-fc {
+  background-image: url(../badges/arsenal-fc.svg);
+}
+
+.football-icon-aston-villa-fc {
+  background-image: url(../badges/aston-villa-fc.svg);
+}
+
+.football-icon-blackburn-rovers-fc {
+  background-image: url(../badges/blackburn-rovers-fc.svg);
+}
+
+.football-icon-bolton-wanderers-fc {
+  background-image: url(../badges/bolton-wanderers-fc.svg);
+}
+
+.football-icon-chelsea-fc {
+  background-image: url(../badges/chelsea-fc.svg);
+}
+
+.football-icon-everton-fc {
+  background-image: url(../badges/everton-fc.svg);
+}
+
+.football-icon-fulham-fc {
+  background-image: url(../badges/fulham-fc.svg);
+}
+
+.football-icon-liverpool-fc {
+  background-image: url(../badges/liverpool-fc.svg);
+}
+
+.football-icon-manchester-city-fc {
+  background-image: url(../badges/manchester-city-fc.svg);
+}
+
+.football-icon-manchester-united-fc {
+  background-image: url(../badges/manchester-united-fc.svg);
+}
+
+.football-icon-newcastle-united-fc {
+  background-image: url(../badges/newcastle-united-fc.svg);
+}
+
+.football-icon-norwich-city-fc {
+  background-image: url(../badges/norwich-city-fc.svg);
+}
+
+.football-icon-queens-park-rangers-fc {
+  background-image: url(../badges/queens-park-rangers-fc.svg);
+}
+
+.football-icon-stoke-city-fc {
+  background-image: url(../badges/stoke-city-fc.svg);
+}
+
+.football-icon-sunderland-afc {
+  background-image: url(../badges/sunderland-afc.svg);
+}
+
+.football-icon-swansea-city-afc {
+  background-image: url(../badges/swansea-city-afc.svg);
+}
+
+.football-icon-tottenham-hotspur-fc {
+  background-image: url(../badges/tottenham-hotspur-fc.svg);
+}
+
+.football-icon-west-bromwich-albion-fc {
+  background-image: url(../badges/west-bromwich-albion-fc.svg);
+}
+
+.football-icon-wigan-athletic-fc {
+  background-image: url(../badges/wigan-athletic-fc.svg);
+}
+
+.football-icon-wolverhampton-wanderers-fc {
+  background-image: url(../badges/wolverhampton-wanderers-fc.svg);
+}
+
+.football-icon-athletic-club {
+  background-image: url(../badges/athletic-club.svg);
+}
+
+.football-icon-club-atletico-de-madrid {
+  background-image: url(../badges/club-atletico-de-madrid.svg);
+}
+
+.football-icon-ca-osasuna {
+  background-image: url(../badges/ca-osasuna.svg);
+}
+
+.football-icon-rcd-espanyol-de-barcelona {
+  background-image: url(../badges/rcd-espanyol-de-barcelona.svg);
+}
+
+.football-icon-fc-barcelona {
+  background-image: url(../badges/fc-barcelona.svg);
+}
+
+.football-icon-getafe-cf {
+  background-image: url(../badges/getafe-cf.svg);
+}
+
+.football-icon-granada-cf {
+  background-image: url(../badges/granada-cf.svg);
+}
+
+.football-icon-malaga-cf {
+  background-image: url(../badges/malaga-cf.svg);
+}
+
+.football-icon-real-madrid-cf {
+  background-image: url(../badges/real-madrid-cf.svg);
+}
+
+.football-icon-rayo-vallecano-de-madrid {
+  background-image: url(../badges/rayo-vallecano-de-madrid.svg);
+}
+
+.football-icon-levante-ud {
+  background-image: url(../badges/levante-ud.svg);
+}
+
+.football-icon-rcd-mallorca {
+  background-image: url(../badges/rcd-mallorca.svg);
+}
+
+.football-icon-real-betis-balompie {
+  background-image: url(../badges/real-betis-balompie.svg);
+}
+
+.football-icon-real-zaragoza {
+  background-image: url(../badges/real-zaragoza.svg);
+}
+
+.football-icon-real-sociedad-de-futbol {
+  background-image: url(../badges/real-sociedad-de-futbol.svg);
+}
+
+.football-icon-villarreal-cf {
+  background-image: url(../badges/villarreal-cf.svg);
+}
+
+.football-icon-valencia-cf {
+  background-image: url(../badges/valencia-cf.svg);
+}
+
+.football-icon-real-sporting-de-gijon {
+  background-image: url(../badges/real-sporting-de-gijon.svg);
+}
+
+.football-icon-ac-milan {
+  background-image: url(../badges/ac-milan.svg);
+}
+
+.football-icon-acf-fiorentina {
+  background-image: url(../badges/acf-fiorentina.svg);
+}
+
+.football-icon-as-roma {
+  background-image: url(../badges/as-roma.svg);
+}
+
+.football-icon-atalanta-bc {
+  background-image: url(../badges/atalanta-bc.svg);
+}
+
+.football-icon-bologna-fc-1909 {
+  background-image: url(../badges/bologna-fc-1909.svg);
+}
+
+.football-icon-cagliari-calcio {
+  background-image: url(../badges/cagliari-calcio.svg);
+}
+
+.football-icon-ac-chievo-verona {
+  background-image: url(../badges/ac-chievo-verona.svg);
+}
+
+.football-icon-genoa-cfc {
+  background-image: url(../badges/genoa-cfc.svg);
+}
+
+.football-icon-scunthorpe-united-fc {
+  background-image: url(../badges/scunthorpe-united-fc.svg);
+}
+
+.football-icon-swindon-town-fc {
+  background-image: url(../badges/swindon-town-fc.svg);
+}
+
+.football-icon-shrewsbury-town-fc {
+  background-image: url(../badges/shrewsbury-town-fc.svg);
+}
+
+.football-icon-preston-north-end-fc {
+  background-image: url(../badges/preston-north-end-fc.svg);
+}
+
+.football-icon-oxford-united-fc {
+  background-image: url(../badges/oxford-united-fc.svg);
+}
+
+.football-icon-fc-viktoria-koln-1904 {
+  background-image: url(../badges/fc-viktoria-koln-1904.svg);
+}
+
+.football-icon-benevento-calcio {
+  background-image: url(../badges/benevento-calcio.svg);
+}
+
+.football-icon-spal-2013 {
+  background-image: url(../badges/spal-2013.svg);
+}
+
+.football-icon-barrow-afc {
+  background-image: url(../badges/barrow-afc.svg);
+}
+
+.football-icon-lincoln-city-fc {
+  background-image: url(../badges/lincoln-city-fc.svg);
+}
+
+.football-icon-forest-green-rovers-fc {
+  background-image: url(../badges/forest-green-rovers-fc.svg);
+}
+
+.football-icon-crawley-town-fc {
+  background-image: url(../badges/crawley-town-fc.svg);
+}
+
+.football-icon-mansfield-town-fc {
+  background-image: url(../badges/mansfield-town-fc.svg);
+}
+
+.football-icon-exeter-city-fc {
+  background-image: url(../badges/exeter-city-fc.svg);
+}
+
+.football-icon-carlisle-united-fc {
+  background-image: url(../badges/carlisle-united-fc.svg);
+}
+
+.football-icon-grimsby-town-fc {
+  background-image: url(../badges/grimsby-town-fc.svg);
+}
+
+.football-icon-plymouth-argyle-fc {
+  background-image: url(../badges/plymouth-argyle-fc.svg);
+}
+
+.football-icon-morecambe-fc {
+  background-image: url(../badges/morecambe-fc.svg);
+}
+
+.football-icon-newport-county-afc {
+  background-image: url(../badges/newport-county-afc.svg);
+}
+
+.football-icon-stevenage-fc {
+  background-image: url(../badges/stevenage-fc.svg);
+}
+
+.football-icon-accrington-stanley-fc {
+  background-image: url(../badges/accrington-stanley-fc.svg);
+}
+
+.football-icon-wycombe-wanderers-fc {
+  background-image: url(../badges/wycombe-wanderers-fc.svg);
+}
+
+.football-icon-cambridge-united-fc {
+  background-image: url(../badges/cambridge-united-fc.svg);
+}
+
+.football-icon-salford-city-fc {
+  background-image: url(../badges/salford-city-fc.svg);
+}
+
+.football-icon-fluminense-fc {
+  background-image: url(../badges/fluminense-fc.svg);
+}
+
+.football-icon-ca-mineiro {
+  background-image: url(../badges/ca-mineiro.svg);
+}
+
+.football-icon-gremio-fbpa {
+  background-image: url(../badges/gremio-fbpa.svg);
+}
+
+.football-icon-ca-paranaense {
+  background-image: url(../badges/ca-paranaense.svg);
+}
+
+.football-icon-se-palmeiras {
+  background-image: url(../badges/se-palmeiras.svg);
+}
+
+.football-icon-botafogo-fr {
+  background-image: url(../badges/botafogo-fr.svg);
+}
+
+.football-icon-sao-paulo-fc {
+  background-image: url(../badges/sao-paulo-fc.svg);
+}
+
+.football-icon-ec-bahia {
+  background-image: url(../badges/ec-bahia.svg);
+}
+
+.football-icon-sc-recife {
+  background-image: url(../badges/sc-recife.svg);
+}
+
+.football-icon-sc-corinthians-paulista {
+  background-image: url(../badges/sc-corinthians-paulista.svg);
+}
+
+.football-icon-cr-vasco-da-gama {
+  background-image: url(../badges/cr-vasco-da-gama.svg);
+}
+
+.football-icon-cr-flamengo {
+  background-image: url(../badges/cr-flamengo.svg);
+}
+
+.football-icon-toronto-fc {
+  background-image: url(../badges/toronto-fc.svg);
+}
+
+.football-icon-brisbane-roar-fc {
+  background-image: url(../badges/brisbane-roar-fc.svg);
+}
+
+.football-icon-melbourne-victory-fc {
+  background-image: url(../badges/melbourne-victory-fc.svg);
+}
+
+.football-icon-newcastle-united-jets-fc {
+  background-image: url(../badges/newcastle-united-jets-fc.svg);
+}
+
+.football-icon-central-coast-mariners-fc {
+  background-image: url(../badges/central-coast-mariners-fc.svg);
+}
+
+.football-icon-western-sydney-wanderers-fc {
+  background-image: url(../badges/western-sydney-wanderers-fc.svg);
+}
+
+.football-icon-wellington-phoenix-fc {
+  background-image: url(../badges/wellington-phoenix-fc.svg);
+}
+
+.football-icon-adelaide-united-fc {
+  background-image: url(../badges/adelaide-united-fc.svg);
+}
+
+.football-icon-sydney-fc {
+  background-image: url(../badges/sydney-fc.svg);
+}
+
+.football-icon-perth-glory-fc {
+  background-image: url(../badges/perth-glory-fc.svg);
+}
+
+.football-icon-panama {
+  background-image: url(../badges/panama.svg);
+}
+
+.football-icon-ceara-sc {
+  background-image: url(../badges/ceara-sc.svg);
+}
+
+.football-icon-us-quevilly-rouen-metropole {
+  background-image: url(../badges/us-quevilly-rouen-metropole.svg);
+}
+
+.football-icon-kas-eupen {
+  background-image: url(../badges/kas-eupen.svg);
+}
+
+.football-icon-krc-genk {
+  background-image: url(../badges/krc-genk.svg);
+}
+
+.football-icon-kv-kortrijk {
+  background-image: url(../badges/kv-kortrijk.svg);
+}
+
+.football-icon-k--sint-truidense-vv {
+  background-image: url(../badges/k--sint-truidense-vv.svg);
+}
+
+.football-icon-kv-oostende {
+  background-image: url(../badges/kv-oostende.svg);
+}
+
+.football-icon-kv-rs-waasland-sk-beveren {
+  background-image: url(../badges/kv-rs-waasland-sk-beveren.svg);
+}
+
+.football-icon-royal-antwerp-fc {
+  background-image: url(../badges/royal-antwerp-fc.svg);
+}
+
+.football-icon-royal-excel-mouscron {
+  background-image: url(../badges/royal-excel-mouscron.svg);
+}
+
+.football-icon-royal-standard-de-liege {
+  background-image: url(../badges/royal-standard-de-liege.svg);
+}
+
+.football-icon-sporting-du-pays-de-charleroi {
+  background-image: url(../badges/sporting-du-pays-de-charleroi.svg);
+}
+
+.football-icon-sv-zulte-waregem {
+  background-image: url(../badges/sv-zulte-waregem.svg);
+}
+
+.football-icon-kv-mechelen {
+  background-image: url(../badges/kv-mechelen.svg);
+}
+
+.football-icon-bsc-young-boys {
+  background-image: url(../badges/bsc-young-boys.svg);
+}
+
+.football-icon-dundalk-fc {
+  background-image: url(../badges/dundalk-fc.svg);
+}
+
+.football-icon-f91-diddeleng {
+  background-image: url(../badges/f91-diddeleng.svg);
+}
+
+.football-icon-fc-kbenhavn {
+  background-image: url(../badges/fc-kbenhavn.svg);
+}
+
+.football-icon-fc-red-bull-salzburg {
+  background-image: url(../badges/fc-red-bull-salzburg.svg);
+}
+
+.football-icon-fc-santa-coloma {
+  background-image: url(../badges/fc-santa-coloma.svg);
+}
+
+.football-icon-fc-sheriff-tiraspol {
+  background-image: url(../badges/fc-sheriff-tiraspol.svg);
+}
+
+.football-icon-fc-viktoria-plzen {
+  background-image: url(../badges/fc-viktoria-plzen.svg);
+}
+
+.football-icon-fcsb-bukarest {
+  background-image: url(../badges/fcsb-bukarest.svg);
+}
+
+.football-icon-astana-fk {
+  background-image: url(../badges/astana-fk.svg);
+}
+
+.football-icon-fk-shakhtar-donetsk {
+  background-image: url(../badges/fk-shakhtar-donetsk.svg);
+}
+
+.football-icon-ifk-mariehamn {
+  background-image: url(../badges/ifk-mariehamn.svg);
+}
+
+.football-icon-linfield-fc {
+  background-image: url(../badges/linfield-fc.svg);
+}
+
+.football-icon-medipol-basaksehir-fk {
+  background-image: url(../badges/medipol-basaksehir-fk.svg);
+}
+
+.football-icon-pfc-cska-moskva {
+  background-image: url(../badges/pfc-cska-moskva.svg);
+}
+
+.football-icon-pfk-ludogorets-1945-razgrad {
+  background-image: url(../badges/pfk-ludogorets-1945-razgrad.svg);
+}
+
+.football-icon-sport-lisboa-e-benfica {
+  background-image: url(../badges/sport-lisboa-e-benfica.svg);
+}
+
+.football-icon-the-new-saints-fc {
+  background-image: url(../badges/the-new-saints-fc.svg);
+}
+
+.football-icon-fc-emmen {
+  background-image: url(../badges/fc-emmen.svg);
+}
+
+.football-icon-fortuna-sittard {
+  background-image: url(../badges/fortuna-sittard.svg);
+}
+
+.football-icon-benin {
+  background-image: url(../badges/benin.svg);
+}
+
+.football-icon-burkina-faso {
+  background-image: url(../badges/burkina-faso.svg);
+}
+
+.football-icon-cape-verde-islands {
+  background-image: url(../badges/cape-verde-islands.svg);
+}
+
+.football-icon-congo {
+  background-image: url(../badges/congo.svg);
+}
+
+.football-icon-congo-dr {
+  background-image: url(../badges/congo-dr.svg);
+}
+
+.football-icon-cote-d-ivoire {
+  background-image: url(../badges/cote-d-ivoire.svg);
+}
+
+.football-icon-djibouti {
+  background-image: url(../badges/djibouti.svg);
+}
+
+.football-icon-equatorial-guinea {
+  background-image: url(../badges/equatorial-guinea.svg);
+}
+
+.football-icon-ethiopia {
+  background-image: url(../badges/ethiopia.svg);
+}
+
+.football-icon-gabon {
+  background-image: url(../badges/gabon.svg);
+}
+
+.football-icon-guinea {
+  background-image: url(../badges/guinea.svg);
+}
+
+.football-icon-liberia {
+  background-image: url(../badges/liberia.svg);
+}
+
+.football-icon-libya {
+  background-image: url(../badges/libya.svg);
+}
+
+.football-icon-madagascar {
+  background-image: url(../badges/madagascar.svg);
+}
+
+.football-icon-malawi {
+  background-image: url(../badges/malawi.svg);
+}
+
+.football-icon-mali {
+  background-image: url(../badges/mali.svg);
+}
+
+.football-icon-mozambique {
+  background-image: url(../badges/mozambique.svg);
+}
+
+.football-icon-niger {
+  background-image: url(../badges/niger.svg);
+}
+
+.football-icon-zimbabwe {
+  background-image: url(../badges/zimbabwe.svg);
+}
+
+.football-icon-zambia {
+  background-image: url(../badges/zambia.svg);
+}
+
+.football-icon-uganda {
+  background-image: url(../badges/uganda.svg);
+}
+
+.football-icon-tanzania {
+  background-image: url(../badges/tanzania.svg);
+}
+
+.football-icon-sudan {
+  background-image: url(../badges/sudan.svg);
+}
+
+.football-icon-guinea-bissau {
+  background-image: url(../badges/guinea-bissau.svg);
+}
+
+.football-icon-central-african-republic {
+  background-image: url(../badges/central-african-republic.svg);
+}
+
+.football-icon-andorra {
+  background-image: url(../badges/andorra.svg);
+}
+
+.football-icon-armenia {
+  background-image: url(../badges/armenia.svg);
+}
+
+.football-icon-azerbaijan {
+  background-image: url(../badges/azerbaijan.svg);
+}
+
+.football-icon-cyprus {
+  background-image: url(../badges/cyprus.svg);
+}
+
+.football-icon-estonia {
+  background-image: url(../badges/estonia.svg);
+}
+
+.football-icon-faroe-islands {
+  background-image: url(../badges/faroe-islands.svg);
+}
+
+.football-icon-finland {
+  background-image: url(../badges/finland.svg);
+}
+
+.football-icon-north-macedonia {
+  background-image: url(../badges/north-macedonia.svg);
+}
+
+.football-icon-georgia {
+  background-image: url(../badges/georgia.svg);
+}
+
+.football-icon-gibraltar {
+  background-image: url(../badges/gibraltar.svg);
+}
+
+.football-icon-kazakhstan {
+  background-image: url(../badges/kazakhstan.svg);
+}
+
+.football-icon-kosovo {
+  background-image: url(../badges/kosovo.svg);
+}
+
+.football-icon-liechtenstein {
+  background-image: url(../badges/liechtenstein.svg);
+}
+
+.football-icon-lithuania {
+  background-image: url(../badges/lithuania.svg);
+}
+
+.football-icon-luxembourg {
+  background-image: url(../badges/luxembourg.svg);
+}
+
+.football-icon-malta {
+  background-image: url(../badges/malta.svg);
+}
+
+.football-icon-moldova {
+  background-image: url(../badges/moldova.svg);
+}
+
+.football-icon-montenegro {
+  background-image: url(../badges/montenegro.svg);
+}
+
+.football-icon-san-marino {
+  background-image: url(../badges/san-marino.svg);
+}
+
+.football-icon-fc-schweinfurt-05 {
+  background-image: url(../badges/fc-schweinfurt-05.svg);
+}
+
+.football-icon-ssv-ulm-1846 {
+  background-image: url(../badges/ssv-ulm-1846.svg);
+}
+
+.football-icon-tsv-steinbach {
+  background-image: url(../badges/tsv-steinbach.svg);
+}
+
+.football-icon-rot-weiss-essen {
+  background-image: url(../badges/rot-weiss-essen.svg);
+}
+
+.football-icon-fc-rielasingen-arlen {
+  background-image: url(../badges/fc-rielasingen-arlen.svg);
+}
+
+.football-icon-fc-eintracht-norderstedt-03 {
+  background-image: url(../badges/fc-eintracht-norderstedt-03.svg);
+}
+
+.football-icon-sk-rapid-wien {
+  background-image: url(../badges/sk-rapid-wien.svg);
+}
+
+.football-icon-lask-linz {
+  background-image: url(../badges/lask-linz.svg);
+}
+
+.football-icon-spusu-skn-st--polten {
+  background-image: url(../badges/spusu-skn-st--polten.svg);
+}
+
+.football-icon-ca-aldosivi {
+  background-image: url(../badges/ca-aldosivi.svg);
+}
+
+.football-icon-estudiantes-de-la-plata {
+  background-image: url(../badges/estudiantes-de-la-plata.svg);
+}
+
+.football-icon-aa-argentinos-juniors {
+  background-image: url(../badges/aa-argentinos-juniors.svg);
+}
+
+.football-icon-ca-banfield {
+  background-image: url(../badges/ca-banfield.svg);
+}
+
+.football-icon-ca-boca-juniors {
+  background-image: url(../badges/ca-boca-juniors.svg);
+}
+
+.football-icon-ca-colon {
+  background-image: url(../badges/ca-colon.svg);
+}
+
+.football-icon-ca-huracan {
+  background-image: url(../badges/ca-huracan.svg);
+}
+
+.football-icon-ca-lanus {
+  background-image: url(../badges/ca-lanus.svg);
+}
+
+.football-icon-ca-newell-s-old-boys {
+  background-image: url(../badges/ca-newell-s-old-boys.svg);
+}
+
+.football-icon-ca-patronato {
+  background-image: url(../badges/ca-patronato.svg);
+}
+
+.football-icon-ca-river-plate {
+  background-image: url(../badges/ca-river-plate.svg);
+}
+
+.football-icon-ca-rosario-central {
+  background-image: url(../badges/ca-rosario-central.svg);
+}
+
+.football-icon-ca-san-lorenzo-de-almagro {
+  background-image: url(../badges/ca-san-lorenzo-de-almagro.svg);
+}
+
+.football-icon-ca-talleres {
+  background-image: url(../badges/ca-talleres.svg);
+}
+
+.football-icon-ca-tucuman {
+  background-image: url(../badges/ca-tucuman.svg);
+}
+
+.football-icon-ca-union {
+  background-image: url(../badges/ca-union.svg);
+}
+
+.football-icon-ca-velez-sarsfield {
+  background-image: url(../badges/ca-velez-sarsfield.svg);
+}
+
+.football-icon-cd-godoy-cruz-antonio-tomba {
+  background-image: url(../badges/cd-godoy-cruz-antonio-tomba.svg);
+}
+
+.football-icon-csyd-defensa-y-justicia {
+  background-image: url(../badges/csyd-defensa-y-justicia.svg);
+}
+
+.football-icon-gimnasia-y-esgrima-de-la-plata {
+  background-image: url(../badges/gimnasia-y-esgrima-de-la-plata.svg);
+}
+
+.football-icon-maidstone-united-fc {
+  background-image: url(../badges/maidstone-united-fc.svg);
+}

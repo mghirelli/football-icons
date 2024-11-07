@@ -1,4 +1,4 @@
-```markdown
+
 # football-icons
 
 A curated collection of football team logos in SVG format — plus the CSS for easier integration into your web pages. See the demo for examples.
